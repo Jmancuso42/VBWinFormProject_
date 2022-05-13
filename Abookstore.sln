@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Abookstore", "Abookstore.vbproj", "{9CF87BDC-99FC-4FDF-B925-7AC778D0786D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1A8FAC85-0E3B-4C77-859C-33C2D7641E03}"
+	ProjectSection(SolutionItems) = preProject
+		Validator.vb = Validator.vb
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CF87BDC-99FC-4FDF-B925-7AC778D0786D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CF87BDC-99FC-4FDF-B925-7AC778D0786D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CF87BDC-99FC-4FDF-B925-7AC778D0786D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CF87BDC-99FC-4FDF-B925-7AC778D0786D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11C3984A-3B60-424B-945D-90857AD6CFAD}
+	EndGlobalSection
+EndGlobal
